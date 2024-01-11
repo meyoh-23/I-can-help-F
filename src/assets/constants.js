@@ -74,4 +74,25 @@ export const heroImges = [
         image: image10,
         title: "title-10"
     },
+];
+export const ourPriorities = [
+    {
+        title: "social Impact",
+        description: "Amidst the digital landscape that defined our interactions, the Boys Club embarked on an invigorating hiking expedition to the picturesque Ngong' Hills. This journey wasn't just about conquering peaks",
+        image: image2,
+    },
+    {
+        title: "green advocacy",
+        description: "Amidst the digital landscape that defined our interactions, the Boys Club embarked on an invigorating hiking expedition to the picturesque Ngong' Hills. This journey wasn't just about conquering peaks",
+        image: image2,
+    },
+    {
+        title: "Interaction",
+        description: "Amidst the digital landscape that defined our interactions, the Boys Club embarked on an invigorating hiking expedition to the picturesque Ngong' Hills. This journey wasn't just about conquering peaks",
+        image: image2,
+    },
+]
+
+export const coreFavies = [
+    {}
 ]
