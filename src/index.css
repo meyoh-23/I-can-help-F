@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Kalnia:wght@700&family=Nova+Square&family=Oswald:wght@300;600&family=Rajdhani:wght@500&display=swap');
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body,
+.app {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-size: 1.5rem;
+}
+
+p {
+  font-size: 1rem;
+}
+
+.dark__overlay {
+  background: rgba(0, 0, 0, 0.5);
+}
+
+.trial {
+  background: #F5F5DC;
+  font-family: 'Oswald', sans-serif;
+  font-family: 'Raleway', sans-serif;
+  color: rgba (50, 50, 50, 0.5);
+}
