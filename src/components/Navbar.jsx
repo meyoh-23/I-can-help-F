@@ -7,7 +7,7 @@ import { Link } from "react-router-dom";
 const Navbar = () => {
     const [mobileNav, showMobileNav] = useState(false);
     return (
-        <nav className="flex justify-between items-center py-3 w-full px-1 bg-secondary relative">
+        <nav className="flex justify-between items-center py-3 w-full px-1 bg-secondary fixed z-10 top-0 left-0">
             <div>
                 <img src={logo} alt="i can help"  className="w-[100px] h-auot"/>
             </div>

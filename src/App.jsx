@@ -1,12 +1,12 @@
 import {Navbar} from "./components";
 import {Routes, Route} from "react-router-dom"
 import {Home, Members, Contacts, Activities, About  } from "./pages";
+import Footer from "./components/Footer";
 
 function App() {
 
   return (
-    <>
-      <div>
+    <div>
         <Navbar/>
         <Routes>
           <Route path="/" element={<Home/>}/>
@@ -15,8 +15,8 @@ function App() {
           <Route path="/activities" element={<Activities/>}/>
           <Route path="/contact-us" element={<Contacts/>}/>
         </Routes>
-      </div>
-    </>
+        <Footer/>
+    </div>
   )
 }
 
