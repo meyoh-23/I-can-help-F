@@ -22,8 +22,7 @@ export const theme = {
       heroTransparent: "rgba (50, 50, 50, 0.5)",
     },
     fontFamily: {
-      raleway: ["'Raleway', sans-serif;"],
-      Oswald: ["'Oswald', sans-serif"]
+      raleway: ["'Montserrat',sans-serif"],
     },
     backgroundImage: {
         'hero-pattern': "url('./assets/hero-image.jpg')",
