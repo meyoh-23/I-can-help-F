@@ -25,8 +25,8 @@ export const theme = {
       raleway: ["'Montserrat',sans-serif"],
     },
     backgroundImage: {
-        'hero-pattern': "url('./assets/hero-image.jpg')",
-        'boys-hero': "url('./assets/boys-hero.jpg')",
+        'hero-image': "url('./assets/image-7.jpg')",
+        'mobile-hero': "url('./assets/mobile-hero.jpg')",
       }
   },
   screens: {
