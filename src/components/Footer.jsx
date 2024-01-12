@@ -30,7 +30,7 @@ const Footer = () => {
                 t&cs
             </div>
         </div>
-        <p className="text-white font-raleway font-bold text-p"> Copyright &copy; <span>{year}</span> I can Help Foundation</p>
+        <p className="text-white font-raleway font-bold text-p"> Copyright &copy; <span>{year}</span> iCanHelp Foundation</p>
         </div>
     </footer>
   )
