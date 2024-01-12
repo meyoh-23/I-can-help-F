@@ -2,8 +2,10 @@
 
 const Members = () => {
   return (
-    <div>Members</div>
+    <section className="w-full mb-5">
+      
+    </section>
   )
 }
 
-export default Members
+export default Members;

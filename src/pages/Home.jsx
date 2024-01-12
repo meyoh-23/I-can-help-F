@@ -4,7 +4,7 @@ import Priorities from "../components/Priorities";
 
 const Home = () => {
   return (
-    <section className="">
+    <section className="my-o">
       <Hero/>
         <h2 className="text-center text-h2 font-raleway font-bold mt-6">Our Priorities</h2>
         

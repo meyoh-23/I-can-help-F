@@ -22,15 +22,15 @@ const Footer = () => {
                 }
             </div>
             <div className="flex flex-wrap gap-3">
-                <a href="#facebook"><FaFacebook/></a>
-                    <a href="#insta"><FaInstagram/></a>
-                    <a href="#x-app"><FaTwitter/></a>
+                <a href="#facebook"><FaFacebook size={25} color="#fff"/></a>
+                    <a href="#insta"><FaInstagram size={25}  color="#fff"/></a>
+                    <a href="#x-app"><FaTwitter size={25}  color="#fff"/></a>
             </div>
             <div>
                 t&cs
             </div>
         </div>
-        <p className="text-white font-raleway font-bold text-p"> Copyright &copy; <span>{year}</span> I can Help </p>
+        <p className="text-white font-raleway font-bold text-p"> Copyright &copy; <span>{year}</span> I can Help Foundation</p>
         </div>
     </footer>
   )
