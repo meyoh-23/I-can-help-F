@@ -121,7 +121,7 @@ export const team = [
         name: "Morara Nyakundi",
         position: "Founder and CEO",
         image:Nyakundi,
-        comments: "Userarandom quote of less that 30 wordChatGPT Embrace the uncertainty of life; in its chaos, discover the beauty of unexpected possibilities.User a random quote containaing  30 word ChatGPT In the dance of existence, find rhythm in the unpredictable beats. Embrace the symphony of moments, for within the cacophony lies the melody of life's extraordinary journey, waiting to be heard.User a random text of abt 200 wordsChatGPT In the quiet corners of contemplation, where thoughts weave a tapestry of introspection, one discovers the mosaic of existence. Life, an intricate dance of moments, unfolds in a rhythm only perceptible to those attuned to its subtle cadence.Amidst the kaleidoscope of emotions, joy and sorrow entwine like vines in a garden of experience. Each laughter echoes the resilience of the human spirit, while tears bear witness to the depth of vulnerability. In the grand theater of existence, individuals don masks, playing roles scripted by circumstance and choice.Yet, beneath the surface, authenticity lingers—a whisper that resonates with the core of being. It beckons the brave to shed societal expectations and embrace the raw, unfiltered truth of self. Through the valleys of uncertainty and peaks of triumph, this journey molds the clay of character.Friendships, akin to constellations, dot the vast canvas of life. Each connection, a celestial body, contributes to the constellation of personal narrative. In the ebb and flow of relationships, lessons unfold, shaping the contours of understanding and empathy. As the sun sets on yesterday's chapters, the dawn heralds the unwritten tales of tomorrow. In the symphony of existence, one becomes both composer and audience, orchestrating the melody of their narrative. Life, a novel of endless pages, awaits the author's pen to craft stories yet untold.",
+        comments: "Userarandom quote of less that 30 wordChatGPT Embrace the uncertainty of life; in its chaos, discover the beauty of unexpected possibilities.User a random quote containaing  30 word ChatGPT In the dance of existence, find rhythm in the unpredictable beats. Embrace the symphony of moments, for within the cacophony lies the melody of life's extraordinary journey, waiting to be heard.User a random text of abt 200 wordsChatGPT In the quiet corners of contemplation, where thoughts weave a tapestry of introspection, one discovers the mosaic of existence. Life, an intricate dance of moments, unfolds in a rhythm only perceptible to those attuned to its subtle cadence.Amidst the kaleidoscope of emotions, joy and sorrow entwine like vines in a garden of experience. Each laughter echoes the resilience of the human spirit, while tears bear witness to the depth of vulnerability. In the grand theater of existence, individuals don masks, playing roles scripted by circumstance and choice.Yet, beneath the surface, authenticity lingers—a whisper that resonates with the core of being. It beckons the brave to shed societal expectations and embrace the raw, unfiltered truth of self. Through the valleys of uncertainty and peaks of triumph, this journey molds the clay of character.Friendships, akin to constellations, dot the vast canvas of life. Each connection, a celestial body, contributes to the constellation of personal narrative. In the ebb and flow of relationships, lessons unfold, alds the unwritten tales of tomorrow. In the symphony of existence, one becomes both composer and audience, orchestrating the melody of their narrative. Life, a novel of endless pages, awaits the author's pen to craft stories yet untoldshaping the contours of understanding and empathy. As the sun sets on yesterday's chapters, the dawn her.",
 
         quote: "In the dance of existence, find rhythm in the unpredictable beats. Embrace the symphony of moments, for within the cacophony lies the melody of life's extraordinary journey, waiting to be heard.",
         id:890,
@@ -152,5 +152,43 @@ export const team = [
 
         quote: "In the dance of existence, find rhythm in the unpredictable beats. Embrace the symphony of moments, for within the cacophony lies the melody of life's extraordinary journey, waiting to be heard.",
         id: 65789433845,
+    },
+]
+export const activities = [
+    {
+        title1: "Hunting and Gathering",
+        imageOne: image2,
+        title2: "Activity 2",
+        imageTwo: image2,
+        decription1: "alds the unwritten tales of tomorrow. In the symphony of existence, one becomes both composer and audience, orchestrating the melody of their narrative. Life, a novel of endless pages, awaits the author's pen to craft stories yet untold",
+        decription2: "alds the unwritten tales of tomorrow. In the symphony of existence, one becomes both composer and audience, orchestrating the melody of their narrative. Life, a novel of endless pages, awaits the author's pen to craft stories yet untold",
+        id: "wrrri54930",
+    },
+    {
+        title1: "Hunting and Gathering",
+        imageOne: image2,
+        title2: "Activity 2",
+        imageTwo: image2,
+        decription1: "alds the unwritten tales of tomorrow. In the symphony of existence, one becomes both composer and audience, orchestrating the melody of their narrative. Life, a novel of endless pages, awaits the author's pen to craft stories yet untold",
+        decription2: "alds the unwritten tales of tomorrow. In the symphony of existence, one becomes both composer and audience, orchestrating the melody of their narrative. Life, a novel of endless pages, awaits the author's pen to craft stories yet untold",
+        id: "kcbcjdfl",
+    },
+    {
+        title1: "Hunting and Gathering",
+        imageOne: image2,
+        title2: "Activity 2",
+        imageTwo: image2,
+        decription1: "alds the unwritten tales of tomorrow. In the symphony of existence, one becomes both composer and audience, orchestrating the melody of their narrative. Life, a novel of endless pages, awaits the author's pen to craft stories yet untold",
+        decription2: "alds the unwritten tales of tomorrow. In the symphony of existence, one becomes both composer and audience, orchestrating the melody of their narrative. Life, a novel of endless pages, awaits the author's pen to craft stories yet untold",
+        id: "5056440",
+    },
+    {
+        title1: "Hunting and Gathering",
+        imageOne: image2,
+        title2: "Activity 2",
+        imageTwo: image2,
+        decription1: "alds the unwritten tales of tomorrow. In the symphony of existence, one becomes both composer and audience, orchestrating the melody of their narrative. Life, a novel of endless pages, awaits the author's pen to craft stories yet untold",
+        decription2: "alds the unwritten tales of tomorrow. In the symphony of existence, one becomes both composer and audience, orchestrating the melody of their narrative. Life, a novel of endless pages, awaits the author's pen to craft stories yet untold",
+        id: "rstqqtws",
     },
 ]
