@@ -16,7 +16,7 @@ const ContactUs = () => {
       <div className="pt-12 w-5/6  mx-auto flex flex-col items-center mb-8">
         <h1 className="font-bold font-raleway text-h2">Reach Out to Us</h1>
         <form 
-        action="https://formsubmit.co/" 
+        action="https://formsubmit.co/fdd7633e2d5b9f66f63a47bb56e57896" 
         className="py-3 flex flex-col items-start gap-4 my-10 shadow-xl w-full p-3 rounded-md"
         target="_blank"
         onSubmit={onSubmit}

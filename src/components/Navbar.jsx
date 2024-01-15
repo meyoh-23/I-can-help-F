@@ -2,10 +2,13 @@ import { Bars3Icon, XMarkIcon } from "@heroicons/react/24/solid";
 import logo from "./../assets/logo-removebg-preview.png";
 import { useState } from "react";
 import { navItems } from "../assets/constants";
-import { Link } from "react-router-dom";
+import { Link, useNavigate  } from "react-router-dom";
+
 
 const Navbar = () => {
     const [mobileNav, showMobileNav] = useState(false);
+    const navigate = useNavigate();
+
     return (
         <nav className="flex justify-between items-center py-3 w-full px-1 bg-secondary fixed z-10 top-0 left-0">
             <div>
@@ -18,7 +21,10 @@ const Navbar = () => {
                     ))
                 }
             </ul>
-            <button className="hidden md:flex bg-bgButton p-1 text-center text-white rounded-md">
+            <button 
+            className="hidden md:flex bg-bgButton p-1 text-center text-white rounded-md"
+            onClick={()=>navigate("/become-amember")}
+            >
                 Become <br />a Member
             </button>
             <button className="flex md:hidden z-20" onClick={() =>showMobileNav(!mobileNav)}>
