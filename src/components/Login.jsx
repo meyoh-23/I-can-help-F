@@ -23,8 +23,9 @@ const Login = () => {
     const handleSubmit = (e) => {
         e.preventDefault();
         const {email, password} = loginData;
-        if (loginData) {
+        if (email && password) {
             console.log(loginData);
+            // post the information to the backend from here
         }
     }
 
