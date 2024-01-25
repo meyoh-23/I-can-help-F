@@ -81,7 +81,7 @@ const Signup = () => {
                         onChange={handleOnchange}
                         />
                     </div>
-                    <button>
+                    <button className="p-1 bg-bgButton mx-auto rounded text-white">
                         submit
                     </button>
                 </form>
